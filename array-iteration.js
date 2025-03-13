@@ -101,3 +101,29 @@ filters all
 console.log(upperQuote);
 
 
+/*
+Transform data- use .map()
+filter out data depending on condition - use .filter()
+find and return only the first element thet meets that condition - use .find()
+return the index of an actual elemnt in an array - use .findIndex()
+
+*/ 
+
+/*
+Transform data - use .map()  
+Filter out data depending on condition - use .filter()  
+Find and return only the first element that meets that condition - use .find()  
+Return the index of an actual element in an array - use .indexOf()  
+Reduce data to a single value - use .reduce()  
+Check if at least one element meets a condition - use .some()  
+Check if all elements meet a condition - use .every()  
+Remove and/or replace elements - use .splice()  
+Copy a portion of an array - use .slice()  
+Flatten nested arrays - use .flat()  
+Reverse the order of elements - use .reverse()  
+Join elements into a string - use .join()  
+Convert elements to a different format - use .toString()  
+Sort an array - use .sort()  
+*/
+
+
